@@ -1,0 +1,5 @@
+print((range(9)))
+print(list(range(5)))
+print(tuple(range(6)))
+print(set(range(1)))
+print(frozenset(range(6)))
